@@ -1,4 +1,3 @@
-## Data Is Everywhere
 ### -- Posts --  
 ### -- Contact  --
 **Máté Kormos**  
