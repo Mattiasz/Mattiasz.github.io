@@ -1,7 +1,3 @@
----
-layout: post
-title: data is everywhere
----
 
 **-Posts**  
 
